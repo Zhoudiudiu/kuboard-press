@@ -14,7 +14,7 @@
     "animated-number-vue": "^1.0.0",
     "aos": "^2.3.4",
     "async-validator": "1.11.5",
-    "axios": "^0.21.1",
+    "axios": "^0.27.2",
     "babel-plugin-component": "^1.1.1",
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
