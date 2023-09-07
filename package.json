@@ -13,7 +13,7 @@
     "@vuepress/plugin-nprogress": "^1.8.2",
     "animated-number-vue": "^1.0.0",
     "aos": "^2.3.4",
-    "async-validator": "1.11.5",
+    "async-validator": "1.12.2",
     "axios": "^0.21.1",
     "babel-plugin-component": "^1.1.1",
     "bootstrap": "^4.6.0",
